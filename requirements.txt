@@ -1,0 +1,4 @@
+Django==1.8
+Pillow==5.0.0
+redis==2.10.6
+sorl-thumbnail==12.4.1
